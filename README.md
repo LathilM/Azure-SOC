@@ -63,4 +63,4 @@ Stop Time	2023-09-02<br>
 
 ## Conclusion
 
-This project has shown the honeynet constructed within Microsoft Azure and log sources integrated into Log Analytics Workspace. In order to trigger alerts and create incidents based on ingested logs Microsoft Sentinel was deployed. Metrics were captured prior to securing the environment and then captured once more after implementation of hardening techniques. As seen between the before and after metrics it can be concluded that a drastic reduction in security incidents and events can be observed, thus demonstrating the effectiveness of the controls applied.  
+This project has shown the honeynet constructed within Microsoft Azure and log sources integrated into Log Analytics Workspace in order to trigger alerts and create incidents based on ingested logs Microsoft Sentinel was deployed. Metrics were captured prior to securing the environment and then captured once more after implementation of hardening techniques. As seen between the before and after metrics it can be concluded that a drastic reduction in security incidents and events can be observed, thus demonstrating the effectiveness of the controls applied.  
